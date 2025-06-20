@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Catalin, a Software Developer passionate about building interactive, performant, and scalable web applications. Highly motivated in designing user-friendly interfaces and writing clean, maintainable code with TypeScript. I also have hands-on experience working with Next.js for server-side React applications and occasionally with Java and Spring Boot for backend development. While I have solid full-stack experience across both frontend and backend, my main focus and passion remain in building intuitive and engaging user interfaces.. Skilled in leveraging Kubernetes and Docker for orchestration and deployment.
+I’m Catalin, a Software Developer passionate about building interactive, performant, and scalable web applications. Highly motivated in designing user-friendly interfaces and writing clean, maintainable code with TypeScript. I also have hands-on experience working with Next.js for server-side React applications and occasionally with Java and Spring Boot for backend development. While I have solid full-stack experience across both frontend and backend, my main focus and passion remain in building intuitive and engaging user interfaces. Skilled in leveraging Kubernetes and Docker for orchestration and deployment.
 
   📫 How to reach me: 
   -   <a href="https://www.linkedin.com/in/catalin-glavan">LinkedIn Profile</a>
