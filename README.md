@@ -1,10 +1,6 @@
 ### Hi there 👋
 I’m Catalin, a Software Developer passionate about building interactive, performant, and scalable web applications. Highly motivated in designing user-friendly interfaces and writing clean, maintainable code with TypeScript. Hands-on experience working with Next.js for server-side React applications and occasionally with Java and Spring Boot for backend development. Solid full-stack experience across both frontend and backend, with a primary focus and passion for building intuitive and engaging user interfaces. Skilled in leveraging Kubernetes and Docker for orchestration and deployment.
 
-  📫 How to reach me: 
-  -   <a href="https://www.linkedin.com/in/catalin-glavan">LinkedIn Profile</a>
-  -   <a href="mailto:glmihaicata@gmail.com">glmihaicata@gmail.com</a>
-
 ### Currently working with:
 <a href="#" title="Javascript"><img width="30" height="30" src="icons/javascript.svg"/></a>
 <a href="#" title="Typescript"><img width="30" height="30" src="icons/typescript.svg"/></a>
