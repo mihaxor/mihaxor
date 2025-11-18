@@ -99,8 +99,7 @@ deployment.
 
 <br />
 
-| <img height=165 src="https://github-readme-stats.vercel.app/api?username=mihaxor&show_icons=true&show=prs_merged_percentage&hide=contribs&rank_icon=github&theme=codeSTACKr&custom_title=GitHub%20Stats" alt='github_stats_profile'/> | <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=mihaxor&layout=compact&langs_count=8&theme=codeSTACKr&exclude_repo=influencegaming-web-app,volkswagen_b3" alt='github_stats_lang'/> |
-| ------------- | ------------- |
+<img height=165 src="https://github-readme-stats.vercel.app/api?username=mihaxor&show_icons=true&show=prs_merged_percentage&hide=contribs&rank_icon=github&theme=codeSTACKr&custom_title=GitHub%20Stats" alt='github_stats_profile'/> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=mihaxor&layout=compact&langs_count=8&theme=codeSTACKr&exclude_repo=influencegaming-web-app,volkswagen_b3" alt='github_stats_lang'/>
 
 ---
 
