@@ -1,7 +1,14 @@
 ### Hi there 👋
-I’m Catalin, a Software Developer passionate about building interactive, performant, and scalable web applications. Highly motivated in designing user-friendly interfaces and writing clean, maintainable code with TypeScript. Hands-on experience working with Next.js for server-side React applications and occasionally with Java and Spring Boot for backend development. Solid full-stack experience across both frontend and backend, with a primary focus and passion for building intuitive and engaging user interfaces. Skilled in leveraging Kubernetes and Docker for orchestration and deployment.
+
+I’m Catalin, a Software Developer passionate about building interactive, performant, and scalable web applications.
+Highly motivated in designing user-friendly interfaces and writing clean, maintainable code with TypeScript. Hands-on
+experience working with Next.js for server-side React applications and occasionally with Java and Spring Boot for
+backend development. Solid full-stack experience across both frontend and backend, with a primary focus and passion for
+building intuitive and engaging user interfaces. Skilled in leveraging Kubernetes and Docker for orchestration and
+deployment.
 
 ### Currently working with:
+
 <a href="#" title="Javascript"><img width="30" height="30" src="icons/javascript.svg"/></a>
 <a href="#" title="Typescript"><img width="30" height="30" src="icons/typescript.svg"/></a>
 <a href="#" title="React"><img width="30" height="30" src="icons/reactjs.svg"/></a>
@@ -46,7 +53,6 @@ I’m Catalin, a Software Developer passionate about building interactive, perfo
 <a href="#" title="Shadcn UI"><img width="30" height="30" src="icons/shadcnui.svg"/></a>
 <a href="#" title="Framer"><img width="30" height="30" src="icons/framer.svg"/></a>
 
-
 **IDEs & Tools:**
 <a href="#" title="IntelliJ Ultimate"><img width="30" height="30" src="icons/intellij.svg"/></a>
 <a href="#" title="Visual Studio Code"><img width="30" height="30" src="icons/vscode.svg"/></a>
@@ -58,12 +64,13 @@ I’m Catalin, a Software Developer passionate about building interactive, perfo
 <a href="#" title="Swagger"><img width="30" height="30" src="icons/swagger.svg"/></a>
 
 **Preferred operating systems:**
-<a href="#" title="Mac OS"><img width="30" height="30" src="icons/macos.svg"/></a>
+<a href="#" title="macOS"><img width="30" height="30" src="icons/macos.svg"/></a>
 <a href="#" title="Ubuntu"><img width="30" height="30" src="icons/ubuntu.svg"/></a>
 <a href="#" title="Arch Linux"><img width="30" height="30" src="icons/archlinux.svg"/></a>
 <a href="#" title="Linux"><img width="30" height="30" src="icons/linux.svg"/></a>
 
 ### Previously worked with:
+
 <a href="#" title="Spring"><img width="30" height="30" src="icons/spring.svg"/></a>
 <a href="#" title="Java"><img width="30" height="30" src="icons/java.svg"/></a>
 <a href="#" title="Cassandra"><img width="30" height="30" src="icons/cassandradb.svg"/></a>
@@ -79,17 +86,24 @@ I’m Catalin, a Software Developer passionate about building interactive, perfo
 <a href="#" title="GitLab"><img width="30" height="30" src="icons/gitlab.svg"/></a>
 <a href="#" title="Bash"><img width="30" height="30" src="icons/bash.svg"/></a>
 
-**My Values:**
+<details>
+<summary><b>My Values</b></summary>
+
 - Clean, readable, and maintainable code
-- Data-informed decision making
+- Data-informed decision-making
 - Continuous improvement and learning
 - Collaboration & clear communication
 - From refactoring code to fine-tuning interfaces, I enjoy polishing projects until they feel complete and intuitive
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=mihaxor&show_icons=true&show=prs_merged_percentage&hide=contribs&rank_icon=github&theme=codeSTACKr&custom_title=GitHub%20Stats" alt='github_stats_profile'/>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=mihaxor&layout=compact&langs_count=8&theme=codeSTACKr&exclude_repo=influencegaming-web-app,volkswagen_b3" alt='github_stats_lang'/>
+</details>
+
+<br />
+
+<img height=190 src="https://github-readme-stats.vercel.app/api?username=mihaxor&show_icons=true&show=prs_merged_percentage&hide=contribs&rank_icon=github&theme=codeSTACKr&custom_title=GitHub%20Stats" alt='github_stats_profile'/>
+<img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=mihaxor&layout=compact&langs_count=8&theme=codeSTACKr&exclude_repo=influencegaming-web-app,volkswagen_b3" alt='github_stats_lang'/>
 
 ---
 
 ### Get in Touch
+
 Feel free to connect with me or check out my projects here on GitHub. Let’s build something great!
